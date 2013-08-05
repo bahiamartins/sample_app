@@ -1,6 +1,7 @@
 == README
 
-This is a sample application
+This is a sample application by
+#RON MARS
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
