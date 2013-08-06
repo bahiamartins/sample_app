@@ -1,6 +1,5 @@
-<% provide(:title, 'About Us') %>
 
-    <title>Ruby on Rails Tutorial Sample App | <%= yield(:title) %></title>
+    <title><%= full_title(yield(:title)) %></title>
  
     <h1>About Us</h1>
     <p>
